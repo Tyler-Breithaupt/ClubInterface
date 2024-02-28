@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/bin/Debug/net7.0/ClubInterface
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/bin/Debug/net7.0/ClubInterface.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/bin/Debug/net7.0/ClubInterface.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/bin/Debug/net7.0/ClubInterface.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/bin/Debug/net7.0/ClubInterface.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/refint/ClubInterface.dll
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ClubInterface.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/ClubInterface/obj/Debug/net7.0/ref/ClubInterface.dll
